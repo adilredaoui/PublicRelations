@@ -8,5 +8,5 @@ info:
   contacts: 
     - "phone: +213 779479031"
     - "Mail: [contact@adilredaoui.com](mailto:adil.redaoui28@gmail.com)"
-    - "Address: 28 lotissement, Algiers, Algeria"
+    - "Address: 27 lotissement, Algiers, Algeria"
 ---
